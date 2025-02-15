@@ -24,5 +24,6 @@ yarn-error.log*
 # ESLint and cache
 .eslintcache
 
-# Vite-specific file
+# Vite-specific file jgv
 .vite/
+
